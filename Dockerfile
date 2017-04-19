@@ -1,6 +1,6 @@
 FROM openjdk:8-jre
 
-MAINTAINER Marcelo França marcelo.franca@citsmart.com
+MAINTAINER Marcelo França <marcelofrancaneves@hotmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
